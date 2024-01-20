@@ -27,6 +27,7 @@ Step 3: Create `chrome` folder inside this directory and paste the code file (ex
 
 ## Additional Tweaks
 Go to Customize Toolbar... and turn on the `Title bar` for a better experience
+Also to change the browser wallpaper just paste the image (png format) into the img folder and rename it to wallpaper
  
 ## Some Concerns
 While I have tried my best, it is bound to still encounter bugs at some point. Though a novice developer, I will try to address them to the best of my capabilities. Thanks for all the co-operation
