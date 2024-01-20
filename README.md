@@ -1,4 +1,5 @@
 ![](https://github.com/SecondMikasa/ArnimFox/blob/main/Screenshots/wallpaper.png)
+![](https://github.com/SecondMikasa/ArnimFox/blob/main/Screenshots/NormalInterface.png)
 ## ArnimFox (Tested on Windows only)
 
 Gonna mess this up but still have been a decade long user of firefox and always thrived for having vertical tabs. Though it's very much achievable by adding extensions but still it very much lacks the continuity. Though a novice developer, tried my best making a stylesheet to customize it to my preference. 
