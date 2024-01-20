@@ -20,7 +20,7 @@ Step 3: Create `chrome` folder inside this directory and paste the code file (ex
  
  • Go to Sidebery settings and paste the content of my `sidebery.css` file into Styles editor > Sidebar
 
- • Configure the Apperance to the following settings (not must but recommended)
+ • Configure the Apperance to the settings as mentioned in settings.png in screnshots folder (not must but recommended)
  ![](screenshots/settings.png)
  
 ## Some Concerns
