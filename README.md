@@ -21,7 +21,7 @@ Step 3: Create `chrome` folder inside this directory and paste the code file (ex
  • Go to Sidebery settings and paste the content of my `sidebery.css` file into Styles editor > Sidebar
 
  • Configure the Apperance to the settings as mentioned in settings.png in screnshots folder (not must but recommended)
- ![]([screenshots/settings.png](https://github.com/SecondMikasa/ArnimFox/blob/main/Screenshots/settings.png))
+ ![](https://github.com/SecondMikasa/ArnimFox/blob/main/Screenshots/settings.png)
  
 ## Some Concerns
 While I have tried my best, it is bound to still encounter bugs at some point. Though a novice developer, I will try to address them to the best of my capabilities. Thanks for all the co-operation
