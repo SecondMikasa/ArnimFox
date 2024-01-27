@@ -25,6 +25,11 @@ Step 3: Create `chrome` folder inside this directory and paste the code file (ex
  • Configure the Apperance to the settings as mentioned in settings.png in screnshots folder (not must but recommended)
  ![](https://github.com/SecondMikasa/ArnimFox/blob/main/Screenshots/settings.png)
 
+## Features
+- Disabled Horizontal Tabs
+- Updated Collapsing SideBar
+- Tweaked and Curvy AddressBar
+
 ## Additional Tweaks
 Go to Customize Toolbar... and turn on the `Title bar` for a better experience
 Also to change the browser wallpaper just paste the image (png format) into the img folder and rename it to wallpaper
