@@ -28,7 +28,9 @@ Step 3: Create `chrome` folder inside this directory and paste the code file (ex
 ## Features
 - Disabled Horizontal Tabs
 - Updated Collapsing SideBar
+  ![](https://github.com/SecondMikasa/ArnimFox/blob/main/Screenshots/sidebar.mp4)
 - Tweaked and Curvy AddressBar
+  ![](https://github.com/SecondMikasa/ArnimFox/blob/main/Screenshots/urlbar.mp4)
 
 ## Additional Tweaks
 Go to Customize Toolbar... and turn on the `Title bar` for a better experience
